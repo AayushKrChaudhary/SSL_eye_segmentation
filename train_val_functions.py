@@ -5,7 +5,7 @@ Created on Tue Nov 24 17:09:34 2020
 Authors : Aayush Kumar Chaudhary,Prashnna K Gyawali,Linwei Wang,Jeff B Pelz
 Paper : Semi-Supervised Learning for Eye Image Segmentation
 
-This is extract from
+Some code snipets are from 
 A. K. Chaudhary et al., "RITnet: Real-time Semantic Segmentation of the Eye for Gaze Tracking," 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), 2019, pp. 3698-3702, doi: 10.1109/ICCVW.2019.00568.
 """
 
