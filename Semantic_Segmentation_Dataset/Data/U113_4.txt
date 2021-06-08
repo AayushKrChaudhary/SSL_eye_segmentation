@@ -1,0 +1,4 @@
+./Semantic_Segmentation_Dataset/train/images/000000008246.png
+./Semantic_Segmentation_Dataset/train/images/000000008221.png
+./Semantic_Segmentation_Dataset/train/images/000000008211.png
+./Semantic_Segmentation_Dataset/train/images/000000008243.png

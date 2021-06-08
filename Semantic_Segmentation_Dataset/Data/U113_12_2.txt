@@ -1,0 +1,12 @@
+./Semantic_Segmentation_Dataset/train/images/000000008209.png
+./Semantic_Segmentation_Dataset/train/images/000000008213.png
+./Semantic_Segmentation_Dataset/train/images/000000008231.png
+./Semantic_Segmentation_Dataset/train/images/000000008212.png
+./Semantic_Segmentation_Dataset/train/images/000000008203.png
+./Semantic_Segmentation_Dataset/train/images/000000008251.png
+./Semantic_Segmentation_Dataset/train/images/000000008216.png
+./Semantic_Segmentation_Dataset/train/images/000000008200.png
+./Semantic_Segmentation_Dataset/train/images/000000008201.png
+./Semantic_Segmentation_Dataset/train/images/000000008224.png
+./Semantic_Segmentation_Dataset/train/images/000000008223.png
+./Semantic_Segmentation_Dataset/train/images/000000008250.png
